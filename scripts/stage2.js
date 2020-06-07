@@ -1,0 +1,1 @@
+console.log('Hello World, this is Tobiloba Ajibade with HNGi7 ID 00000 and email herityjohnny14@gmail.com using Javscript for stage 2 task');
